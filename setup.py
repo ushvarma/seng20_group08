@@ -11,7 +11,7 @@ setup(
     # Needed for dependencies
     install_requires=['numpy'],
     # This is the first version
-    version='0.1',
+    version='1.0',
     # Using MIT Licenser
     license='MIT',
     description='Group 8 Home Work 1'
