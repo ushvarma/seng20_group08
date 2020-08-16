@@ -14,5 +14,5 @@ setup(
     version='0.1',
     # Using MIT Licenser
     license='MIT',
-    description='Group 8 Home Work 1',
+    description='Group 8 Home Work 1'
 )
