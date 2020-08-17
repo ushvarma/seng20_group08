@@ -1,5 +1,5 @@
-import code
+import src
 
 
 def test_inc():
-    assert code.inc(3) == 4
+    assert src.inc(3) == 4
