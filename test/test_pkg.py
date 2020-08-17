@@ -1,5 +1,5 @@
-import src
+import code
 
 
-def test_happy():
-    assert src.happy() == ":)"
+def test_inc():
+    assert code.inc(3) == 4
