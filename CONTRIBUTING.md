@@ -26,3 +26,10 @@ Explain the problem and include additional details to help maintainers reproduce
 
 * Use a clear and descriptive title for the issue to identify the suggestion.
 * Provide a step-by-step description of the suggested enhancement in as many details as possible.
+
+### Attribution
+The Contributing guidelines above are adapted from [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md).
+
+## Attribution
+
+This is adapted from [Atom](https://github.com/atom/atom), available at [(https://github.com/atom/atom/blob/master/CONTRIBUTING.md)]
