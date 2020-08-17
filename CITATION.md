@@ -1,1 +1,15 @@
-[![DOI](https://zenodo.org/badge/287643260.svg)](https://zenodo.org/badge/latestdoi/287643260)
+
+Sri Harsha Varma; Police Lokesh Reddy; Sameer Reddy; Wyatt Andresen      
+ushvarma:seng20_group08 
+Aug, 2020
+
+```bibtex
+@article{timm:bnbad,
+  title     = {ushvarma:seng20_group08},
+  DOI       = {10.5281/zenodo.3988452}, 
+  author    = {Sri Harsha Varma; Police Lokesh Reddy; Sameer Reddy; andresenwc}, 
+  publisher = {Zenodo}, 
+  year      = {2020}, 
+  month     = {Aug}
+}
+```
