@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
@@ -7,7 +7,7 @@ setup(
     author='group 08',
     author_email='ushvarma@gmail.com',
     # Needed to package the project.
-    packages=['seng_20_group08'],
+    packages=find_packages(),
     # Needed for dependencies
     install_requires=['numpy'],
     # This is the first version
