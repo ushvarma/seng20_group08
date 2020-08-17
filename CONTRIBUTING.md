@@ -1,4 +1,4 @@
-#Contributing to Seng20_Group08
+# Contributing to Seng20_Group08
 
 
 The following is a set of guidelines for contributing to Seng20_Group08 on GitHub.
