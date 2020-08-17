@@ -1,3 +1,3 @@
-#data
+#Data
 
-Readme file for data folder
+Data required for the project to be added and maintained here
