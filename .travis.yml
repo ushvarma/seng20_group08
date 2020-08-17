@@ -11,6 +11,6 @@ install:
    - pip install .  # install this package
    - pip install -r requirements.txt  # install the dependencies
 script:
-    - pytest  # run pytest
+    - python3 -m pytest test_pkg.py   # run pytest
 after_success:
   - codecov # submit coverage
