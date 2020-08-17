@@ -10,6 +10,6 @@ before_install:
 install:
    - pip install -r requirements.txt  #install the dependencies
 script:
-    - python tests.py
+    - pytest
 after_success:
   - codecov # submit coverage
