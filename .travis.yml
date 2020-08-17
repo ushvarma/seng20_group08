@@ -9,7 +9,6 @@ before_install:
   - pip install codecov
 install:
   - pip install -r requirements.txt  #install the dependencies
-script:
-  - python -m unittest test.tests
+script: pytest #run tests
 after_success:
   - codecov # submit coverage
